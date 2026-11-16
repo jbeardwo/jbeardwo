@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm John
 
-<!--
-**jbeardwo/jbeardwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programmer and musician making tools for music lovers. I'm moving into software from IT and systems administration (ISP infrastructure, then IT for a grocery chain), with a B.S. in Computer Science and a B.A. in Music from UC Santa Cruz.
 
-Here are some ideas to get you started:
+I mostly write Go, Python, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- [Musician's SeRiouS Practice Tool](https://github.com/jbeardwo/musician-SRS): a spaced repetition system for instrument practice, written in Go and self-hosted
+- [Music Library](https://github.com/jbeardwo/music-library): a source-agnostic music library that mixes local files and Spotify
+- [spotify_thelist](https://github.com/jbeardwo/spotify_thelist): finds upcoming Bay Area shows for the artists you follow on Spotify
+
+## Learning
+
+Working through the backend path on Boot.dev.
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/john-beardwood/)
