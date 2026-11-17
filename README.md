@@ -7,7 +7,6 @@ I mostly write Go, Python, and JavaScript.
 ## What I'm working on
 
 - [Musician's SeRiouS Practice Tool](https://github.com/jbeardwo/musician-SRS): a spaced repetition system for instrument practice, written in Go and self-hosted
-- [Music Library](https://github.com/jbeardwo/music-library): a source-agnostic music library that mixes local files and Spotify
 - [spotify_thelist](https://github.com/jbeardwo/spotify_thelist): finds upcoming Bay Area shows for the artists you follow on Spotify
 
 ## Learning
